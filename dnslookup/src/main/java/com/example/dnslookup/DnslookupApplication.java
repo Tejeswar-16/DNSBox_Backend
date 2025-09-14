@@ -9,5 +9,4 @@ public class DnslookupApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DnslookupApplication.class, args);
 	}
-
 }
